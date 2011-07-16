@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Config>
+  <IpLocal>172.16.177.129</IpLocal>
+  <Port>8012</Port>
+  <UrlOpenDsServer>ldap://172.16.177.1:1389</UrlOpenDsServer>
+  <UrlMecachedServer>172.16.177.1</UrlMecachedServer>
+  <PortMecachedServer>11212</PortMecachedServer>
+  <UrlMecachedServer2>172.16.177.1</UrlMecachedServer2>
+  <PortMecachedServer2>11213</PortMecachedServer2>
+</Config>

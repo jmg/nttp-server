@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Config>
+  <Host>127.0.0.1</Host>
+  <Port>8000</Port>  
+</Config>

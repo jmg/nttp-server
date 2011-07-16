@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Config>
+  <Port>8000</Port>
+  <Host>127.0.0.1</Host>
+  <DbPath>C:\\database.db</DbPath>
+  <NewsGroup>grupo1</NewsGroup>
+  <Time>2000</Time>
+</Config>
